@@ -9,8 +9,10 @@ export const defaultConfig = {
   lang: "en",
   siteName: "Built by Diplodocus",
   description: "This site is built by Diplodocus",
-  favicon: "https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f995.png",
-  image: "https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f995.png",
+  favicon:
+    "https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f995.png",
+  image:
+    "https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f995.png",
   twitter: "",
   navLinks: [] as Array<NavLink>,
   listPages: [] as Array<PageLink>,

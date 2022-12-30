@@ -77,7 +77,8 @@ Site description. This is used in meta information of the HTML files.
 ### favicon
 
 - Type: `string`
-- Default: `https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f4e6.png`
+- Default:
+  `https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f4e6.png`
 
 Site favicon.
 
